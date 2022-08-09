@@ -1,0 +1,68 @@
+.back {
+    height:100vh;
+    background-image: linear-gradient(lightblue,pink,lightyellow);
+}
+.text1 {
+    text-align:center;
+    color:red;
+    text-shadow: 3px 3px 5px aqua;
+    font-weight: bold;
+    font-style: italic;
+    font-size:40px;
+
+    
+}
+.btn1 {
+    height: 60px;
+    width:300px;
+    border-radius:50px;
+    background-color:darkorchid;
+    font-style: italic;
+    cursor: pointer;
+    position:relative;
+    top:120px;
+    left:26em;
+    font-size:18px;
+
+
+}
+.btn2 {
+    height: 60px;
+    width:300px;
+    border-radius:50px;
+    background-color:darkorchid;
+    position: absolute;
+    cursor: pointer;
+    top:220px;
+    right:400px;
+    font-size: 18px;
+    font-style: italic;
+  
+}
+.functional {
+    height:300px;
+    width:400px;
+    border-radius: 28px;
+    background-color: aqua;
+    border:5px solid black;
+    text-align:center;
+    position:relative;
+    top:300px;
+    left:100px;
+    display: block;
+}
+.para1 {
+    font-size: 18px;
+    color:lightcoral;
+}
+.class-name {
+    height:300px;
+    width:400px;
+    border-radius: 28px;
+    background-color:aqua;
+    border:5px solid black;
+    text-align:center;
+    position: absolute;
+    top:460px;
+    left:800px;
+}
